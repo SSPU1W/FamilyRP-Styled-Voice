@@ -7,3 +7,5 @@ Feel free to edit this as you like, but please do not release without permission
 Vizzra gives credit to:
 https://forum.fivem.net/t/release-changed-player-name-tags-distance-names/19204
 as well for helping.
+
+I left some of the code in from the other IDOverHead, so all you have to do is add3DText over the head. 
