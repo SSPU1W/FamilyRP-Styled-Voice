@@ -1,5 +1,3 @@
--- Kodak's FamilyRP Styled Voice. Released with permission.  Disord: Kodaddy#5552
-
 local showPlayerBlips = false
 local ignorePlayerNameDistance = false
 local playerNamesDist = 15
